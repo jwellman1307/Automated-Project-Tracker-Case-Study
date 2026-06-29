@@ -1,0 +1,165 @@
+# Feature Overview
+
+## Automated Project Tracker
+
+Automated Project Tracker is a macro-enabled Excel workbook designed to help users organize projects, track tasks, manage notes, and record release progress in one reusable file.
+
+The workbook was built for people who want a practical project management tool without needing a subscription, login, or complex software setup.
+
+---
+
+## Core Features
+
+### Project Dashboard
+
+The dashboard gives users a central place to view and manage their projects.
+
+Key dashboard features include:
+
+- Project overview area
+- Current project list
+- Project status tracking
+- Quick access to project workspaces
+- Clean layout designed for simple navigation
+
+The goal of the dashboard is to help users quickly see what they are working on and move into the project they need.
+
+---
+
+### New Project Creation
+
+The workbook includes an automated workflow for creating new projects.
+
+Users can create a project from the dashboard, and the workbook generates a dedicated project workspace based on the project tracker layout.
+
+This helps keep each project organized without requiring the user to manually copy, rename, or rebuild sheets.
+
+---
+
+### Project Workspace
+
+Each project workspace is designed to hold the main information needed to manage a project from start to finish.
+
+The project workspace includes areas for:
+
+- Project details
+- Task tracking
+- Project notes
+- Brainstorming
+- Release notes
+- Version/release tracking
+
+This gives each project its own organized space while keeping the overall workbook structure consistent.
+
+---
+
+### Task Tracking
+
+The task tracking section helps users break project work into smaller action items.
+
+Users can track task details such as:
+
+- Task name
+- Category or phase
+- Status
+- Priority
+- Notes
+- Progress
+
+This section is designed to help users see what needs to be done, what is currently in progress, and what has already been completed.
+
+---
+
+### Notes and Brainstorming
+
+The workbook includes dedicated areas for project notes and brainstorming.
+
+These sections are useful for:
+
+- Capturing ideas
+- Writing reminders
+- Planning future updates
+- Recording decisions
+- Keeping project context in one place
+
+The goal is to reduce scattered notes and keep project-related thinking inside the workbook.
+
+---
+
+### Release and Version Tracking
+
+Automated Project Tracker includes a release/version tracking workflow.
+
+This allows users to track:
+
+- Completed versions
+- Release names
+- Release dates
+- Release notes
+- Previous release history
+
+This is especially useful for creators, developers, spreadsheet builders, app builders, or anyone working through multiple versions of a project.
+
+---
+
+### Project Logs
+
+The workbook includes logging areas so users can keep a record of project activity and progress over time.
+
+Logs can help users look back at:
+
+- Older notes
+- Past updates
+- Completed work
+- Version history
+- Project decisions
+
+This makes the workbook useful not only for planning, but also for reviewing progress after work has been completed.
+
+---
+
+### Beginner-Friendly Workflow
+
+The workbook was designed to be usable by people who do not write code.
+
+Although it uses Excel automation and VBA behind the scenes, the user interacts with buttons, structured sections, and guided workbook areas.
+
+The focus is on making the workbook feel like a simple project app inside Excel.
+
+---
+
+## Built With
+
+This project was built using:
+
+- Microsoft Excel
+- VBA automation
+- Excel tables
+- Form-style layouts
+- Dashboard design
+- Macro-enabled workbook structure
+- Digital product packaging
+
+---
+
+## Design Goals
+
+The main goals of this workbook were to create a tool that is:
+
+- Practical
+- Reusable
+- Easy to understand
+- Organized
+- Helpful for real project work
+- More powerful than a basic spreadsheet
+- Simpler than full project management software
+
+Automated Project Tracker was built as a lightweight productivity tool for users who want structure without unnecessary complexity.
+
+---
+
+## Case Study Note
+
+This repository is a public case study for portfolio and product showcase purposes.
+
+The full macro-enabled workbook, packaged customer download, and VBA source code are not included in this repository because Automated Project Tracker is a paid digital product.
