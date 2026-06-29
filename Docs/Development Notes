@@ -1,0 +1,229 @@
+# Development Notes
+
+## Project Purpose
+
+Automated Project Tracker was built to function like a lightweight project management app inside Microsoft Excel.
+
+The goal was to create a reusable workbook that helps users manage projects, tasks, notes, and release progress without needing a separate subscription-based tool.
+
+This project was designed as more than a static spreadsheet. It uses structured layouts and Excel automation to create a guided project tracking workflow.
+
+---
+
+## Development Approach
+
+The workbook was built around a dashboard-first structure.
+
+The dashboard acts as the main control center where users can view projects, create new projects, and navigate to project workspaces. Each project workspace is designed to follow a consistent format so users can manage different projects in the same way.
+
+The main development focus was to keep the workbook:
+
+- Easy to understand
+- Organized
+- Reusable
+- Beginner-friendly
+- Useful for real project work
+- More automated than a basic spreadsheet
+
+---
+
+## Workbook Structure
+
+The workbook includes multiple organized areas for project management.
+
+Key areas include:
+
+- Main dashboard
+- Project list
+- Project workspace sheets
+- Task tracking sections
+- Notes and brainstorming areas
+- Release notes
+- Version/release logs
+- Supporting workbook instructions
+
+The structure was designed so users can separate project-level information while still managing everything from one central workbook.
+
+---
+
+## Excel Tables
+
+Excel tables were used to keep project data organized and easier to expand.
+
+Tables help support:
+
+- Structured data entry
+- Consistent headers
+- Cleaner filtering and sorting
+- Easier references for automation
+- Expandable project records
+
+Using tables also helps reduce the chance of layout issues when users add more rows of project data.
+
+---
+
+## VBA Automation
+
+VBA was used to support the automated parts of the workbook.
+
+The automation was designed to help users complete common project tracking actions without needing to manually duplicate sheets, rebuild layouts, or manage the workbook structure themselves.
+
+Automation supports workflow areas such as:
+
+- Creating project workspaces
+- Updating project records
+- Managing project tracker sections
+- Supporting release/version logging
+- Improving navigation and usability
+
+The goal was to keep the technical work behind the scenes while giving the user a simpler front-end experience.
+
+---
+
+## Project Creation Workflow
+
+One of the main workbook features is the ability to create a new project from the dashboard.
+
+The project creation workflow was designed so the user can enter project information and generate a dedicated workspace for that project.
+
+This helps prevent users from needing to manually copy sheets, rename tabs, or rebuild tracker sections.
+
+The purpose of this workflow is to make the workbook feel more like an Excel-based application than a basic template.
+
+---
+
+## Dashboard Design
+
+The dashboard was designed to give users a quick view of their active projects and project status.
+
+The dashboard layout focuses on:
+
+- Clear project visibility
+- Simple navigation
+- Organized project summaries
+- A cleaner visual structure
+- Easy access to project workspaces
+
+The dashboard was adjusted during development to support expandable project lists while keeping the top summary sections stable.
+
+---
+
+## Project Workspace Design
+
+Each project workspace was designed to give users one place to manage the details of a specific project.
+
+The project workspace includes areas for tasks, notes, brainstorming, release planning, and version history.
+
+The layout was built to keep related project information together instead of scattering it across different files or tools.
+
+---
+
+## Release and Version Tracking
+
+The release/version tracking section was included to support projects that evolve over time.
+
+This feature is useful for users building apps, spreadsheets, creative projects, business tools, or any project that may go through multiple releases.
+
+The release tracking workflow helps users document:
+
+- Version names
+- Release dates
+- Completed releases
+- Release notes
+- Older release history
+
+This was included because project progress often happens in stages, and users need a way to look back at what changed over time.
+
+---
+
+## Notes and Logs
+
+Notes and logs were included so users can keep project context inside the workbook.
+
+These areas are intended for:
+
+- Daily notes
+- Older notes
+- Ideas
+- Decisions
+- Brainstorming
+- Progress updates
+- Future improvements
+
+This supports users who want both task tracking and project journaling in one place.
+
+---
+
+## User Experience Goals
+
+The workbook was designed for users who may not be advanced Excel users.
+
+The user experience goals were:
+
+- Make the workbook easy to navigate
+- Reduce manual setup
+- Keep sections clearly labeled
+- Avoid unnecessary complexity
+- Use buttons and structured areas where possible
+- Make the workbook feel approachable
+
+Although the workbook uses VBA and automation, the user should not need to understand the code to use the product.
+
+---
+
+## Testing and Refinement
+
+The workbook was tested through repeated project creation, task entry, release tracking, and sample data workflows.
+
+Testing focused on:
+
+- Creating new projects
+- Checking dashboard updates
+- Entering task data
+- Using notes sections
+- Recording release/version information
+- Reviewing workbook layout consistency
+- Preparing screenshots and demo video content
+
+The workbook was also reviewed from a customer perspective to make sure the product included enough instructions, visual examples, and support files for a digital download.
+
+---
+
+## Digital Product Packaging
+
+Automated Project Tracker was prepared as a digital product for Etsy.
+
+The product package includes the workbook and a README file to help users understand what is included and how to get started.
+
+Product preparation included:
+
+- Workbook cleanup
+- Sample screenshots
+- Demo video
+- README creation
+- ZIP file packaging
+- Etsy listing images
+- Store description
+- Product preview review
+
+This helped turn the workbook from a personal project into a customer-ready digital product.
+
+---
+
+## Lessons Learned
+
+This project helped reinforce several important development lessons:
+
+- A useful Excel product needs both functionality and clear presentation.
+- Automation is most valuable when it removes repetitive setup work for the user.
+- Dashboard layout matters because users need to understand the workbook quickly.
+- Digital products need documentation, screenshots, and trust-building details.
+- A case study can show the value of a product without giving away the paid file.
+
+---
+
+## Case Study Note
+
+This repository is for portfolio and case study purposes only.
+
+The full macro-enabled workbook, packaged customer download, and VBA source code are not included in this repository because Automated Project Tracker is a paid digital product by Tiny Rebellion Studios.
