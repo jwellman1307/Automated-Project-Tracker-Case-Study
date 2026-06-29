@@ -192,6 +192,10 @@ Planned or possible future updates include:
 
 The Automated Project Tracker is part of **Tiny Rebellion Studios**, a personal creative and software brand focused on building useful tools, productivity systems, apps, and games.
 
+A customer-ready version of this workbook is available here:
+
+[Automated Excel Project Tracker on Etsy](https://www.etsy.com/listing/4529548538/automated-excel-project-tracker)
+
 ---
 
 ## Author
