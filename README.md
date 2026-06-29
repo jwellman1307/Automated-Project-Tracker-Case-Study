@@ -1,5 +1,5 @@
 # Automated Project Tracker
-
+![Automated Project Tracker Preview](Screenshots/08-DigitalExcelWorkbook.png)
 **Automated Project Tracker** is a macro-enabled Excel workbook designed to help users manage projects, tasks, releases, notes, and version history from one organized dashboard.
 
 Instead of using separate files for planning, task lists, release notes, and project logs, this workbook brings those pieces together into one automated project management system built directly in Microsoft Excel.
@@ -30,7 +30,10 @@ The dashboard gives users a high-level view of their projects. It is designed as
 
 From the dashboard, users can review active projects, see project information, and navigate into the project workspace.
 
+![Dashboard Overview](Screenshots/02-Dashboard.png)
+
 ---
+
 
 ### Automated Project Creation
 
@@ -57,6 +60,8 @@ The workspace includes areas for:
 - Development notes
 
 This gives each project a dedicated place for both planning and execution.
+
+![Project Workspace](Screenshots/03-ProjectWorkspace.png)
 
 ---
 
