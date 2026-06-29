@@ -143,6 +143,7 @@ A typical workflow looks like this:
 7. Record release notes
 8. Complete a release/version
 9. Review project history and continue improving the project
+![New Projects](Screenshots/05-NewProjects.png)
 
 ---
 
